@@ -1,14 +1,7 @@
 # This is a test website for IECEP USJ-R Student Chapter.
 ### Unfinished README >.<
 ```
-Hi guys I am Sheira!! 
-```
-```
-Hello I am Larr!!
-```
-
-```
-Top Contributors:
+#### **Top Contributors:**
 Aubrey Tidoso
 Sheira Maria Bermudo
 Aubrey Carbonera
