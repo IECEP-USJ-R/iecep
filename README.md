@@ -11,5 +11,5 @@ Christian Larr P. Absalon
 ```
 ----
 ## **About Us**
-#### We are a non-profit student organization at the University of San Jose-Recoletos.
+We are a non-profit student organization at the University of San Jose-Recoletos.
 ### Thank you!
