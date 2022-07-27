@@ -1,5 +1,5 @@
 ## **This is a test website for IECEP USJ-R Student Chapter.**
-<img alt="IECEP - USJ-R STUDENT CHAPTER FB Page" width="850px" src="images/banner.png" />
+<img alt="IECEP - USJ-R STUDENT CHAPTER banner" width="850px" src="images/banner.png" />
 
 ##### _Unfinished README.md UwU_
 
