@@ -13,9 +13,9 @@ Christian Larr P. Absalon
 ```
 ----
 ### **About Us**
-We are a non-profit student organization at the University of San Jose-Recoletos. The organization aims to provide its services to all Josenian ECE students and faculty.
+##### We are a non-profit student organization at the University of San Jose-Recoletos. The organization aims to provide its services to all Josenian ECE students and faculty.
 
-This website aims to provide additional information about our organization. In this website, we will share the following: Our projects, Review Notes, Achievements, News, and Contact Info.
+##### This website aims to provide additional information about our organization. In this website, we will share the following: Our projects, Review Notes, Achievements, News, and Contact Info.
 ----
 
 ### Thank you!
