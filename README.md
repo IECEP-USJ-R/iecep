@@ -3,7 +3,7 @@
 
 ##### _Unfinished README.md UwU_
 
-[<img alt="IECEP - USJ-R STUDENT CHAPTER FB Page" width="30px" src="images/facebook-brands.svg" />](https://www.facebook.com/usjr.iecep) [<img alt="IECEP - USJ-R STUDENT CHAPTER Website" width="30px" src="images/globe-solid.svg" />](https://iecep-usj-r.github.io/iecep/) [<img alt="IECEP - USJ-R STUDENT CHAPTER Location" width="30px" src="images/school-flag-solid.svg" />](https://goo.gl/maps/sr2Yky2tYPuAyQob8)
+[<img alt="IECEP - USJ-R STUDENT CHAPTER FB Page" width="30px" src="images/facebook-brands.svg" />](https://www.facebook.com/usjr.iecep) [<img alt="IECEP - USJ-R STUDENT CHAPTER Website" width="30px" src="images/globe-solid.svg" />](https://iecep-usj-r.github.io/iecep/) [<img alt="IECEP - USJ-R STUDENT CHAPTER Location" width="30px" src="images/location.svg" />](https://goo.gl/maps/sr2Yky2tYPuAyQob8)
 
 ----
 ```
