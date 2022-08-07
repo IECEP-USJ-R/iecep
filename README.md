@@ -3,6 +3,7 @@
 
 ##### _Unfinished README.md UwU_
 
+### Follow us in all our socials!
 [<img alt="IECEP - USJ-R STUDENT CHAPTER FB Page" width="30px" src="images/facebook.svg" />](https://www.facebook.com/usjr.iecep) [<img alt="IECEP - USJ-R STUDENT CHAPTER Website" width="30px" src="images/website.svg" />](https://iecep-usj-r.github.io/iecep/) [<img alt="IECEP - USJ-R STUDENT CHAPTER Location" width="30px" src="images/location.svg" />](https://goo.gl/maps/sr2Yky2tYPuAyQob8) [<img alt="IECEP - USJ-R STUDENT CHAPTER Messenger" width="30px" src="images/facebook messenger.svg" />](https://www.messenger.com/t/258098914347557)
 
 ----
